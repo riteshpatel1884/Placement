@@ -3,7 +3,7 @@ So every time when the months starts he counts the number of sundays he will get
 any day, be it Sunday, Monday…. Or so on.
 Count the number of Sunday jack will get within n number of days.
 
-Example 1:
+Ex
 Input 
 mon-> input String denoting the start of the month.
 13  -> input integer denoting the number of days from the start of the month.
