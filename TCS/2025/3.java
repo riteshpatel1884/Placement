@@ -5,8 +5,7 @@ array. The risk values range from 0 to 2.
 
 Example :
 Input :
-7  -> Value of N
-[1,0,2,0,1,0,2]-> Element of arr[0] to arr[N-1], while input each element is separated by new line.
+7  -> Value\[0] to arr[N-1], while input each element is separated by new line.
 
 Output :
 0 0 0 1 1 2 2  -> Element after sorting based on risk severity 
